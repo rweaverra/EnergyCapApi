@@ -25,3 +25,4 @@ C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Debug\net6.0\re
 C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Debug\net6.0\EnergyCapApi.pdb
 C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Debug\net6.0\EnergyCapApi.genruntimeconfig.cache
 C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Debug\net6.0\ref\EnergyCapApi.dll
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\bin\Debug\net6.0\DataCache\dataCache.json

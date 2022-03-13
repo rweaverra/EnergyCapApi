@@ -14,10 +14,15 @@ namespace EnergyCapApi
         {
             string result = "that Place does not exists";
             //check data base if placeId exists
-            //if yes call dataCache to grab the data then perform MovingAverage function
+              //Place place DataCache.GetPlace(placeId)
             //if no, call the API to get the PlaceInfo,
-            //then add it to database
-            //then perform the moving average function on it. 
+            //if(place == null)
+              //place = CallEnergyCapApi(placeId)
+              //DataCache.AddPlace(Place place)
+            //if yes call dataCache to grab the data then perform MovingAverage function
+              //SimpleMovingAverage.Update
+         
+            
 
             return result;
 

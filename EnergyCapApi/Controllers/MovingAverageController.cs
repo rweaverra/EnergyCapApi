@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using EnergyCapApi.DataCache;
 
 namespace EnergyCapApi.Controllers
 {
@@ -10,7 +11,9 @@ namespace EnergyCapApi.Controllers
         public string GetSingle(string placeId, int subset)
         {
             //call the moving average class methods
-            var result = MovingAverage.CallEnergyCapApi(placeId);
+          
+            var result = DataCache.DataCache.GetPlaceData(placeId);
+
             return System.Text.Json.JsonSerializer.Serialize(result);
         }
 
