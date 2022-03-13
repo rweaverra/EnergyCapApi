@@ -1,27 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using EnergyCapApi.DataCache;
+using EnergiCapApi.Attributes;
 
 namespace EnergyCapApi.Controllers
 {
+    [ApiKey]
     [ApiController]
     [Route("[controller]")]
     public class MovingAverageController : ControllerBase
     {
         [HttpGet("GetSinglePlaceMovingAverage")]
-        public string GetSingle(string placeId, int subset)
+        public string GetSingle(string placeId, int subset = 4)
         {
-            //call the moving average class methods
-          
-            var result = DataCache.DataCache.GetPlaceData(placeId);
-
-            return System.Text.Json.JsonSerializer.Serialize(result);
+            return MovingAverage.GetMovingAverage(placeId, subset);
         }
 
         [HttpGet("GetMultiplePlacesMovingAverage")]
-        public string GetMultiple(string placeIds, int subset)
-        {
-            //call the moving average class methods
-            return $"This will be the JSON-String of the MULTIPLE average results from string of placeIds: {placeIds} and subset average of {subset}";
+        public string GetMultiple(string placeIds, int subset = 4)
+        {      
+            return MovingAverage.MultiplePlaceMovingAverage(placeIds, subset);
         }
     }
 }

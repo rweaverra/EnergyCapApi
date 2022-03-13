@@ -15,7 +15,9 @@ namespace EnergyCapApi.Models
 
 
         [JsonPropertyName("results")]
-        public MonthlyResults[]? Results { get; set; }
+        public List<MonthlyResults>? Results { get; set; }
+
+        public ResultAverages? ResultAverages { get; set; }
 
 
 

@@ -6,16 +6,14 @@ namespace EnergyCapApi.DataCache
 {
     public static class DataCache
     {
-        //static readonly string _jsonFile; << uncomment for production
-        static readonly string _jsonFile = @"C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\DataCache\dataCache.json";
-
+        static readonly string _jsonFile;
         static DataCache()
         {
             var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             var iconPath = Path.Combine(outPutDirectory, "DataCache\\dataCache.json");
             string json_path = new Uri(iconPath).LocalPath;
 
-            //_jsonFile = json_path;  <<UNCOMMENT FOR PRODUCTION
+            _jsonFile = json_path;
 
         }
 
