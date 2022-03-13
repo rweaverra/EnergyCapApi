@@ -13,7 +13,7 @@ namespace EnergyCapApi.Controllers
             return $"This will be the JSON-String of the moving average results from place id{placeId} and a subset average of {subset}";
         }
 
-        [HttpGet("GetMultiple PlaceMovingAverage")]
+        [HttpGet("GetMultiplePlaceMovingAverage")]
         public string GetMultiple(string placeIds, int subset)
         {
             //call the moving average class methods
