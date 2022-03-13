@@ -1,0 +1,77 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "EnergyCapApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/MovingAverage/GetSinglePlaceMovingAverage": {
+      "get": {
+        "tags": [
+          "MovingAverage"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "placeId",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "subset",
+            "type": "integer",
+            "format": "int32",
+            "default": 4
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "/MovingAverage/GetMultiplePlacesMovingAverage": {
+      "get": {
+        "tags": [
+          "MovingAverage"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "placeIds",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "subset",
+            "type": "integer",
+            "format": "int32",
+            "default": 4
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

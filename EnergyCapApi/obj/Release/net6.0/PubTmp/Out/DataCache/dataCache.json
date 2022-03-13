@@ -1,0 +1,993 @@
+{
+  "1033": {
+    "placeId": 1033,
+    "commodities": [
+      {
+        "commodityCode": "ELECTRIC",
+        "commonUseUnit": {
+          "unitId": 2,
+          "unitCode": "KWH",
+          "unitInfo": "kWh"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 6614.0962,
+            "globalUse": 260.19916,
+            "globalUseUnitCost": 25.41936
+          },
+          {
+            "totalCost": 6120.3805,
+            "globalUse": 224.375428,
+            "globalUseUnitCost": 27.27741
+          },
+          {
+            "totalCost": 5001.4233,
+            "globalUse": 162.831344,
+            "globalUseUnitCost": 30.71536
+          },
+          {
+            "totalCost": 5680.9396,
+            "globalUse": 191.586846,
+            "globalUseUnitCost": 29.652034
+          },
+          {
+            "totalCost": 5672.4065,
+            "globalUse": 190.664073,
+            "globalUseUnitCost": 29.750788
+          },
+          {
+            "totalCost": 5115.9685,
+            "globalUse": 166.764252,
+            "globalUseUnitCost": 30.677849
+          },
+          {
+            "totalCost": 5635.2641,
+            "globalUse": 184.798311,
+            "globalUseUnitCost": 30.494132
+          },
+          {
+            "totalCost": 5751.4849,
+            "globalUse": 199.984865,
+            "globalUseUnitCost": 28.759601
+          },
+          {
+            "totalCost": 7031.4811,
+            "globalUse": 245.687135,
+            "globalUseUnitCost": 28.619655
+          },
+          {
+            "totalCost": 6134.5054,
+            "globalUse": 209.393489,
+            "globalUseUnitCost": 29.296543
+          },
+          {
+            "totalCost": 6517.6815,
+            "globalUse": 221.132897,
+            "globalUseUnitCost": 29.474047
+          },
+          {
+            "totalCost": 6700.1269,
+            "globalUse": 222.403572,
+            "globalUseUnitCost": 30.125986
+          },
+          {
+            "totalCost": 5862.9386,
+            "globalUse": 193.406886,
+            "globalUseUnitCost": 30.314012
+          },
+          {
+            "totalCost": 6144.3613,
+            "globalUse": 198.928405,
+            "globalUseUnitCost": 30.8873
+          },
+          {
+            "totalCost": 6960.606,
+            "globalUse": 233.24432,
+            "globalUseUnitCost": 29.842553
+          },
+          {
+            "totalCost": 7817.6788,
+            "globalUse": 66.05632,
+            "globalUseUnitCost": 118.348688
+          },
+          {
+            "totalCost": 7626.5512,
+            "globalUse": 189.12716,
+            "globalUseUnitCost": 40.324992
+          },
+          {
+            "totalCost": 1699.6327,
+            "globalUse": 57.56044,
+            "globalUseUnitCost": 29.527792
+          }
+        ]
+      },
+      {
+        "commodityCode": "NATURALGAS",
+        "commonUseUnit": {
+          "unitId": 16,
+          "unitCode": "THERM",
+          "unitInfo": "THERM"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 2329.9916,
+            "globalUse": 270.139853,
+            "globalUseUnitCost": 8.625131
+          },
+          {
+            "totalCost": 1328.4219,
+            "globalUse": 189.665276,
+            "globalUseUnitCost": 7.004033
+          },
+          {
+            "totalCost": 1062.425,
+            "globalUse": 121.668091,
+            "globalUseUnitCost": 8.732158
+          },
+          {
+            "totalCost": 689.9057,
+            "globalUse": 69.196564,
+            "globalUseUnitCost": 9.970231
+          },
+          {
+            "totalCost": 281.9907,
+            "globalUse": 18.441724,
+            "globalUseUnitCost": 15.290908
+          },
+          {
+            "totalCost": 186.2305,
+            "globalUse": 8.536121,
+            "globalUseUnitCost": 21.81676
+          },
+          {
+            "totalCost": 1234.4175,
+            "globalUse": 135.4711,
+            "globalUseUnitCost": 9.112036
+          },
+          {
+            "totalCost": 1907.0041,
+            "globalUse": 211.156855,
+            "globalUseUnitCost": 9.03122
+          },
+          {
+            "totalCost": 2309.9641,
+            "globalUse": 251.665358,
+            "globalUseUnitCost": 9.178713
+          },
+          {
+            "totalCost": 1747.3209,
+            "globalUse": 229.711446,
+            "globalUseUnitCost": 7.60659
+          },
+          {
+            "totalCost": 2147.6631,
+            "globalUse": 249.106438,
+            "globalUseUnitCost": 8.621468
+          },
+          {
+            "totalCost": 1755.7064,
+            "globalUse": 190.24889,
+            "globalUseUnitCost": 9.228471
+          },
+          {
+            "totalCost": 815.8604,
+            "globalUse": 77.664828,
+            "globalUseUnitCost": 10.504889
+          },
+          {
+            "totalCost": 463.7942,
+            "globalUse": 40.549461,
+            "globalUseUnitCost": 11.43774
+          },
+          {
+            "totalCost": 258.1763,
+            "globalUse": 16.718125,
+            "globalUseUnitCost": 15.442898
+          },
+          {
+            "totalCost": 181.719,
+            "globalUse": 5.838621,
+            "globalUseUnitCost": 31.123616
+          },
+          {
+            "totalCost": 165.3904,
+            "globalUse": 3.833103,
+            "globalUseUnitCost": 43.147914
+          },
+          {
+            "totalCost": 10.6786,
+            "globalUse": 0.248276,
+            "globalUseUnitCost": 43.011004
+          }
+        ]
+      },
+      {
+        "commodityCode": "SEWER",
+        "commonUseUnit": {
+          "unitId": 97,
+          "unitCode": "KGAL",
+          "unitInfo": "Kgal"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 1178.4398,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 811.9062,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 965.992,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 2238.535,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 2479.7186,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 944.6013,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 108.6861,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 75.7312,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 53.578,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 46.4991,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 67.5055,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 125.6745,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 379.2173,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 882.2376,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1460.4524,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ]
+      },
+      {
+        "commodityCode": "WATER",
+        "commonUseUnit": {
+          "unitId": 97,
+          "unitCode": "KGAL",
+          "unitInfo": "Kgal"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 793.6406,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 623.0306,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 696.6783,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1363.7016,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1506.2068,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 719.8914,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 242.8195,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 267.1286,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 259.9923,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 256.7943,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 243.4338,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 295.4451,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 415.3217,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 684.0173,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 979.0556,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 171.7992,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 5.5419,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ]
+      },
+      {
+        "commodityCode": "STORMDRAIN",
+        "commonUseUnit": {
+          "unitId": 97,
+          "unitCode": "KGAL",
+          "unitInfo": "Kgal"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 461.0534,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 440.9232,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 427.2462,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 443.7595,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 444.2976,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 429.9703,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 86.4421,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 443.4094,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 444.753,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 443.6773,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 400.68,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 443.6197,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 414.9903,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 457.4728,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 429.7572,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ]
+      }
+    ]
+  },
+  "1045": {
+    "placeId": 1045,
+    "commodities": [
+      {
+        "commodityCode": "ELECTRIC",
+        "commonUseUnit": {
+          "unitId": 2,
+          "unitCode": "KWH",
+          "unitInfo": "kWh"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 12261.955,
+            "globalUse": 506.489589,
+            "globalUseUnitCost": 24.209688
+          },
+          {
+            "totalCost": 12212.0657,
+            "globalUse": 510.894093,
+            "globalUseUnitCost": 23.903321
+          },
+          {
+            "totalCost": 11925.3539,
+            "globalUse": 499.237107,
+            "globalUseUnitCost": 23.887154
+          },
+          {
+            "totalCost": 12927.22,
+            "globalUse": 540.383932,
+            "globalUseUnitCost": 23.922288
+          },
+          {
+            "totalCost": 12845.1671,
+            "globalUse": 548.039932,
+            "globalUseUnitCost": 23.438378
+          },
+          {
+            "totalCost": 12537.516,
+            "globalUse": 527.634247,
+            "globalUseUnitCost": 23.761756
+          },
+          {
+            "totalCost": 12641.665,
+            "globalUse": 525.753753,
+            "globalUseUnitCost": 24.04484
+          },
+          {
+            "totalCost": 12001.625,
+            "globalUse": 511.248497,
+            "globalUseUnitCost": 23.47513
+          },
+          {
+            "totalCost": 12842.3473,
+            "globalUse": 542.443499,
+            "globalUseUnitCost": 23.674995
+          },
+          {
+            "totalCost": 12971.3997,
+            "globalUse": 519.522797,
+            "globalUseUnitCost": 24.967912
+          },
+          {
+            "totalCost": 12686.1821,
+            "globalUse": 497.562703,
+            "globalUseUnitCost": 25.49665
+          },
+          {
+            "totalCost": 13825.5906,
+            "globalUse": 539.105502,
+            "globalUseUnitCost": 25.645427
+          },
+          {
+            "totalCost": 12846.8212,
+            "globalUse": 506.929841,
+            "globalUseUnitCost": 25.342405
+          },
+          {
+            "totalCost": 13498.5823,
+            "globalUse": 530.69343,
+            "globalUseUnitCost": 25.435744
+          },
+          {
+            "totalCost": 13772.3604,
+            "globalUse": 537.849173,
+            "globalUseUnitCost": 25.606362
+          },
+          {
+            "totalCost": 14330.1856,
+            "globalUse": 561.754615,
+            "globalUseUnitCost": 25.509689
+          },
+          {
+            "totalCost": 13774.3741,
+            "globalUse": 536.090505,
+            "globalUseUnitCost": 25.694121
+          },
+          {
+            "totalCost": 3070.2443,
+            "globalUse": 119.101547,
+            "globalUseUnitCost": 25.778375
+          }
+        ],
+        "ResultAverages": null
+      },
+      {
+        "commodityCode": "STORMDRAIN",
+        "commonUseUnit": null,
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 1015.0609,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1049.1167,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1015.2742,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1052.3598,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.702,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1020.6793,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.7016,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1020.6789,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.7016,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.7022,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 952.6347,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.7027,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1020.6795,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1054.702,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1020.6793,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 238.1585,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ],
+        "ResultAverages": null
+      },
+      {
+        "commodityCode": "WATER",
+        "commonUseUnit": {
+          "unitId": 97,
+          "unitCode": "KGAL",
+          "unitInfo": "Kgal"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 478.0758,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 569.0479,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 642.0915,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 932.534,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 1018.6176,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 896.1388,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 741.7197,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 645.5298,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 653.8042,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 607.6638,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 523.4528,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 577.3437,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 633.3817,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 726.343,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 835.9482,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 264.6526,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ],
+        "ResultAverages": null
+      },
+      {
+        "commodityCode": "SEWER",
+        "commonUseUnit": {
+          "unitId": 97,
+          "unitCode": "KGAL",
+          "unitInfo": "Kgal"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 369.5615,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 388.267,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 375.7423,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 329.6733,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 287.3557,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 278.0862,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 248.644,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 227.5926,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 235.1791,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 290.875,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 290.3942,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 321.5079,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 286.326,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 281.0275,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 271.9621,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          },
+          {
+            "totalCost": 63.4578,
+            "globalUse": 0,
+            "globalUseUnitCost": 0
+          }
+        ],
+        "ResultAverages": null
+      },
+      {
+        "commodityCode": "NATURALGAS",
+        "commonUseUnit": {
+          "unitId": 16,
+          "unitCode": "THERM",
+          "unitInfo": "THERM"
+        },
+        "costUnit": {
+          "unitId": 58,
+          "unitCode": "USDOLLARS",
+          "unitInfo": "$"
+        },
+        "results": [
+          {
+            "totalCost": 90.4459,
+            "globalUse": 8.431035,
+            "globalUseUnitCost": 10.727734
+          },
+          {
+            "totalCost": 2.2254,
+            "globalUse": 1.626034,
+            "globalUseUnitCost": 1.368606
+          },
+          {
+            "totalCost": -28.5642,
+            "globalUse": 1.084355,
+            "globalUseUnitCost": -26.342111
+          },
+          {
+            "totalCost": 19.7195,
+            "globalUse": 0.475645,
+            "globalUseUnitCost": 41.458441
+          },
+          {
+            "totalCost": 19.55,
+            "globalUse": 0.447069,
+            "globalUseUnitCost": 43.729268
+          },
+          {
+            "totalCost": 21.1801,
+            "globalUse": 0.588931,
+            "globalUseUnitCost": 35.963636
+          },
+          {
+            "totalCost": 168.9933,
+            "globalUse": 18.190379,
+            "globalUseUnitCost": 9.290257
+          },
+          {
+            "totalCost": 464.2697,
+            "globalUse": 52.211954,
+            "globalUseUnitCost": 8.892019
+          },
+          {
+            "totalCost": 500.8769,
+            "globalUse": 53.93781,
+            "globalUseUnitCost": 9.286193
+          },
+          {
+            "totalCost": 533.4713,
+            "globalUse": 58.399214,
+            "globalUseUnitCost": 9.134905
+          },
+          {
+            "totalCost": 503.678,
+            "globalUse": 61.37585,
+            "globalUseUnitCost": 8.206453
+          },
+          {
+            "totalCost": 170.0255,
+            "globalUse": 15.884827,
+            "globalUseUnitCost": 10.703642
+          },
+          {
+            "totalCost": 125.3025,
+            "globalUse": 11.254772,
+            "globalUseUnitCost": 11.133278
+          },
+          {
+            "totalCost": 25.5105,
+            "globalUse": 1.092861,
+            "globalUseUnitCost": 23.342859
+          },
+          {
+            "totalCost": 14.0653,
+            "globalUse": 0.271333,
+            "globalUseUnitCost": 51.837779
+          },
+          {
+            "totalCost": 5.8674,
+            "globalUse": 0.142258,
+            "globalUseUnitCost": 41.244781
+          },
+          {
+            "totalCost": 14.3426,
+            "globalUse": 0.347742,
+            "globalUseUnitCost": 41.244946
+          }
+        ],
+        "ResultAverages": null
+      }
+    ]
+  }
+}

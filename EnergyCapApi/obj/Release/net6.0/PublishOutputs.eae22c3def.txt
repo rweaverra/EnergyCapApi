@@ -1,0 +1,12 @@
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\EnergyCapApi.exe
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\DataCache\dataCache.json
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\EnergyCapApi.dll
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\EnergyCapApi.deps.json
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\EnergyCapApi.runtimeconfig.json
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\EnergyCapApi.pdb
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rweav\source\repos\GitHub\EnergyCapApi\EnergyCapApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
