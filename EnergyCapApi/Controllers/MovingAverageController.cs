@@ -10,10 +10,11 @@ namespace EnergyCapApi.Controllers
         public string GetSingle(string placeId, int subset)
         {
             //call the moving average class methods
-            return $"This will be the JSON-String of the moving average results from place id{placeId} and a subset average of {subset}";
+            var result = MovingAverage.CallEnergyCapApi(placeId);
+            return System.Text.Json.JsonSerializer.Serialize(result);
         }
 
-        [HttpGet("GetMultiplePlaceMovingAverage")]
+        [HttpGet("GetMultiplePlacesMovingAverage")]
         public string GetMultiple(string placeIds, int subset)
         {
             //call the moving average class methods
