@@ -9,7 +9,7 @@ namespace EnergyCapApi.Models
         public int PlaceId { get; set; }
 
         [JsonPropertyName("commodities")]
-        public List<Dictionary<string, object>>? Commodity { get; set; }
+        public Commodity[]? Commodities { get; set; }
 
     }
 }
